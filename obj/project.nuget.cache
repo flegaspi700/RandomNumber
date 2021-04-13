@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uBIoofK3NZ6NA110YAcTYYlCqfqAoG8GAs6pTk//fLaLB+zBZ3C1mW0mdIhsAcBLXLgmMF54R/TljSjjrZSDlg==",
+  "dgSpecHash": "6IBQd8GX5sH93dEIX+8tyX6iPdXibih7Y0xPxJUFXwFRuTbTbEZqHFs+GaH94Nc3d3dQ++C5Xb/y1Tfwyny8aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cttin\\OneDrive\\Documents\\Portfolio\\Qsharp\\RandomNumber\\RandomNumber.csproj",
+  "projectFilePath": "c:\\Users\\cttin\\OneDrive\\Documents\\Portfolio\\Qsharp\\RandomNumber\\RandomNumber.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cttin\\.nuget\\packages\\azure.core\\1.0.1\\azure.core.1.0.1.nupkg.sha512",
     "C:\\Users\\cttin\\.nuget\\packages\\azure.identity\\1.1.0\\azure.identity.1.1.0.nupkg.sha512",
