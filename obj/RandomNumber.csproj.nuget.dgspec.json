@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cttin\\OneDrive\\Documents\\Portfolio\\Qsharp\\RandomNumber\\RandomNumber.csproj": {}
+    "d:\\Portfolio\\Q_#\\RandomNumber\\RandomNumber.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cttin\\OneDrive\\Documents\\Portfolio\\Qsharp\\RandomNumber\\RandomNumber.csproj": {
+    "d:\\Portfolio\\Q_#\\RandomNumber\\RandomNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cttin\\OneDrive\\Documents\\Portfolio\\Qsharp\\RandomNumber\\RandomNumber.csproj",
+        "projectUniqueName": "d:\\Portfolio\\Q_#\\RandomNumber\\RandomNumber.csproj",
         "projectName": "RandomNumber",
-        "projectPath": "c:\\Users\\cttin\\OneDrive\\Documents\\Portfolio\\Qsharp\\RandomNumber\\RandomNumber.csproj",
+        "projectPath": "d:\\Portfolio\\Q_#\\RandomNumber\\RandomNumber.csproj",
         "packagesPath": "C:\\Users\\cttin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cttin\\OneDrive\\Documents\\Portfolio\\Qsharp\\RandomNumber\\obj\\",
+        "outputPath": "d:\\Portfolio\\Q_#\\RandomNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cttin\\AppData\\Roaming\\NuGet\\NuGet.Config"
